@@ -1,0 +1,197 @@
+# ============================================
+# ARCHIVOS DEL SISTEMA OPERATIVO
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.exe
+*.dll
+*.sys
+
+# Linux
+*.tmp
+*.swp
+*.swo
+*~
+.directory
+.cache/
+.nfs*
+
+# ============================================
+# EDITORES DE TEXTO Y ENTORNOS DE DESARROLLO
+# ============================================
+
+# VSCode
+.vscode/
+.code-workspace
+*.code-workspace
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Vim
+*.swp
+*.swo
+*~
+*.un~
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+.sublime/
+
+# ============================================
+# PYTHON (por si usas scripts de automatización)
+# ============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+envs/
+.env/
+
+# ============================================
+# LOGISIM (ARCHIVOS TEMPORALES Y DE RESPALDO)
+# ============================================
+
+# Archivos de respaldo automático de Logisim
+*.bck
+*.bak
+*.backup
+*~
+
+# Archivos de estado de simulación
+*.state
+*.sim
+*.simulation
+*.vcd
+
+# Archivos de configuración local de Logisim (si los guardas en la carpeta)
+logisim-preferences.properties
+logisim-evolution.properties
+
+# Archivos de bloqueo (lock files)
+*.lock
+*.lock.*
+.lock
+
+# ============================================
+# ARCHIVOS DE LOGS Y TEMPORALES
+# ============================================
+
+*.log
+*.tmp
+*.temp
+*.cache
+*.cached
+*.part
+*.dmp
+*.dump
+*.core
+
+
+# ============================================
+# ARCHIVOS DE CONFIGURACIÓN PERSONAL
+# ============================================
+
+# Si tienes configuraciones locales específicas
+conf/*-local.*
+conf/*-personal.*
+conf/*.local
+conf/*.personal
+
+
+
+# ============================================
+# OTROS ARCHIVOS TEMPORALES
+# ============================================
+
+*.swp
+*.swo
+*~
+*.orig
+*.rej
+*.patch
+*.diff
+*.old
+*.new
+*.tmp
+*.temp
+*.part
+
+# ============================================
+# NOTAS Y ARCHIVOS DE TEXTO PERSONALES
+# ============================================
+
+# Si tienes notas personales que no quieras subir
+notas-personales.txt
+*.notes
+*.draft
+borrador-*
+temp-*
+
+# ============================================
+# ESPECÍFICOS DE ENSAMBLADOR (si generas binarios)
+# ============================================
+
+*.obj
+*.exe
+*.com
+*.o
+*.out
+*.bin
+*.hex
+*.lst
+*.map
+*.sym
+*.cof
+*.elf
+
+# ============================================
+# CARPETA DE VIDEOS DESCARGADOS (para estudio)
+# ============================================
+
+Videos/
