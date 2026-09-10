@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/icons/logisim.png" width="64" alt="Logisim">
   <img src="assets/icons/ASM.png" width="64" alt="Assembly">
-  <img src="assets/icons/cpu.png" width="64" alt="CPU" style="filter: invert(1);">
+  <img src="assets/icons/cpu.png" width="64" alt="CPU" >
   <h1>Arquitectura de Computadoras</h1>
   <p><em>Diseño de microprocesadores S-MIPS en Logisim · Programación en ensamblador</em></p>
 </div>
@@ -60,10 +60,10 @@ En las soluciones uso la siguiente notación para representar las operaciones l�
 
 | Símbolo | Notación | Operación | Descripción |
 | :---: | :---: | :--- | :--- |
-| <img src="assets/icons/simbolos/NOT.svg" width="24" style="filter: invert(1);" alt="NOT"> | `¬` | NOT | Negación |
-| <img src="assets/icons/simbolos/AND.svg" width="24" style="filter: invert(1);" alt="AND"> | `∧` | AND | Conjunción |
-| <img src="assets/icons/simbolos/OR.svg" width="24" style="filter: invert(1);" alt="OR"> | `∨` | OR | Disyunción |
-| <img src="assets/icons/simbolos/XOR.svg" width="24" style="filter: invert(1);" alt="XOR"> | `⊕` | XOR | Disyunción exclusiva |
+| <img src="assets/icons/simbolos/NOT.svg" width="24"  alt="NOT"> | `¬` | NOT | Negación |
+| <img src="assets/icons/simbolos/AND.svg" width="24"  alt="AND"> | `∧` | AND | Conjunción |
+| <img src="assets/icons/simbolos/OR.svg" width="24"  alt="OR"> | `∨` | OR | Disyunción |
+| <img src="assets/icons/simbolos/XOR.svg" width="24"  alt="XOR"> | `⊕` | XOR | Disyunción exclusiva |
 
 <p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
